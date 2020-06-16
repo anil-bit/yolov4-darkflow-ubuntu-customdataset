@@ -230,4 +230,6 @@ Set ZED_CAMERA=1 if you are working with ZED camera and its SDK
      q) To train on Linux use command: ./darknet detector train data/obj.data yolo-obj.cfg yolov4.conv.137 (just use ./darknet instead of darknet.exe)
 
  
+# testing code
 
+I will upload it soon 
